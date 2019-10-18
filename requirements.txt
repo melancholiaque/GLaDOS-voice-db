@@ -1,6 +1,6 @@
 requests
-BeautifulSoup
+beautifulsoup4
 tqdm
 sqlalchemy
 psycopg2
-cursesmenu
+curses-menu
